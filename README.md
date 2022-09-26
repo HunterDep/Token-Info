@@ -1,2 +1,2 @@
-# Token-Info
-script de pegar as informações do token discord no python
+instale a lib requests, comando:
+pip install requests
